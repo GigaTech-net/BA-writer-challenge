@@ -14,12 +14,12 @@ Ideally, this would take a couple of hours to complete.
 
 ## Minimum Requirements
 
-    Your paper must meet this minimum requirements.
+    Your paper must meet these minimum requirements.
 
 - The paper shall be one page in length
-- The paper shall introduce the main points in the paper.
-- The paper shall contain main content for the points in the paper.
-- The paper shall summarize the main points in the paper.
+- The paper shall introduce the main points to be discussed.
+- The paper shall contain main content for the main points.
+- The paper shall summarize the main points.
 - The paper shall be written using [Github Markdown][ghmd].
 
 - Your submittal shall be a GitHub repository that you create, either by forking this one or creating your own.
@@ -36,7 +36,7 @@ Ideally, this would take a couple of hours to complete.
 
 ## Submission
 
-When you are comfortable with your results, please email a link to your GitHub repository to [GigaTECH Development Challenge][gthr]. Please keep your emails short and to the point.
+When you are comfortable with your results, please email a link to your GitHub repository to [GigaTECH Writing Challenge][gthr]. Please keep your emails short and to the point.
 
 Any specific notes or further information you would like to add about your submittal, should be included in the GitHub project, as additional [GitHub Markdown][ghmd] notes.
 
