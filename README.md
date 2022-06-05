@@ -6,9 +6,9 @@ We appreciate that any research and writing challenge represents an investment o
 
 ## The Challenge
 
-One of the challenges we face as technical analysts is the ability to find and consume the appropriate information specific to a task, while disregarding what does not matter at that point in time. This challenge is designed for you to consume information and write a small paper. We will expose you to some of the concepts, technologies, and regulations that we deal with everyday, such as [FHIR &reg;][fhir] and [21st Century Cures Act][21curesact].
+One of the challenges we face as technical analysts is the ability to find and consume the appropriate information specific to a task, while disregarding what does not matter at that point in time. This challenge is designed for you to consume information and write a small paper. We will expose you to some of the concepts, technologies, and regulations that we deal with everyday, such as [FHIR &reg;][fhir] and [21<sup>st</sup> Century Cures Act][21curesact].
 
-[FHIR &reg;][fhir] is becoming a more mainstream technology standard. Government regulations, such as the [21st Century Cures Act][21curesact], are beginning to emerge that require [FHIR &reg;][fhir]. We would like a paper that describes how FHIR supports the 21<sup>st</sup> Century Cures Act
+[FHIR &reg;][fhir] is becoming a more mainstream technology standard. Government regulations, such as the [21<sup>st</sup> Century Cures Act][21curesact], are beginning to emerge that require [FHIR &reg;][fhir]. We would like a paper that describes how FHIR supports the 21<sup>st</sup> Century Cures Act
 
 Ideally, this would take a couple of hours to complete.
 
@@ -31,7 +31,7 @@ Ideally, this would take a couple of hours to complete.
 ## Getting started
 
 - You will probably want to familiarize yourself with [Github Markdown][ghmd].
-- You will probably want to familiarize yourself with [21st Century Cures Act][21curesact].
+- You will probably want to familiarize yourself with [21<sup>st</sup> Century Cures Act][21curesact].
 - You will probably want to familiarize yourself with [FHIR &reg;][fhir].
 
 ## Submission
@@ -63,11 +63,11 @@ The following references may be useful in this challenge.
 
 - [Github Markdown][ghmd]
 - [FHIR Specification][fhir]
-- [21st Century Cures Act][21curesact]
+- [21<sup>st</sup> Century Cures Act][21curesact]
 
 [gthr]: mailto:HR@gigatech.net?subject=[GigaTECH%20Development%20Challenge]%20Submittal "GigaTECH HR email submittal"
 [gigatech]: https://gigatech.net "GigaTECH Home"
 [ghmd]: https://guides.github.com/features/mastering-markdown/ "Github Markdown"
 [smarttech]: http://docs.smarthealthit.org/ "SMART technical reference"
 [fhir]: https://hl7.org/fhir "FHIR Specification"
-[21curesact]: https://www.healthit.gov/curesrule/ "21st Century Cures Act"
+[21curesact]: https://www.healthit.gov/curesrule/ "21 Century Cures Act"
