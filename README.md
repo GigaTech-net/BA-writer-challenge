@@ -65,7 +65,7 @@ The following references may be useful in this challenge.
 - [FHIR Specification][fhir]
 - [21<sup>st</sup> Century Cures Act][21curesact]
 
-[gthr]: mailto:HR@gigatech.net?subject=[GigaTECH%20Development%20Challenge]%20Submittal "GigaTECH HR email submittal"
+[gthr]: mailto:HR@gigatech.net?subject=[GigaTECH%20Writing%20Challenge]%20Submittal "GigaTECH HR email submittal"
 [gigatech]: https://gigatech.net "GigaTECH Home"
 [ghmd]: https://guides.github.com/features/mastering-markdown/ "Github Markdown"
 [smarttech]: http://docs.smarthealthit.org/ "SMART technical reference"
